@@ -6,4 +6,4 @@ Mastering in Full-Stack Web Developer with just ONE course. HTML, CSS, Javascrip
 
 - Next learnt about working of web page, structure of web page mainly focused on front end. 
 
-# Stay tuned for nect sections update. 
+# Stay tuned for next sections update. 
