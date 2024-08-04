@@ -7,3 +7,8 @@ Mastering in Full-Stack Web Developer with just ONE course. HTML, CSS, Javascrip
 - Next learnt about working of web page, structure of web page mainly focused on front end. 
 
 # Stay tuned for next sections update. 
+
+## Section 2
+- In section 2, I learnt Heading, Paragraph, types of list, anchor tags, self closing tags, and image slection.
+
+- Practiced with some examples like my favourite movie list, Cooking recipe etc.
