@@ -29,7 +29,7 @@ Mastering in Full-Stack Web Developer with just ONE course. HTML, CSS, Javascrip
 ![goal](https://github.com/user-attachments/assets/42a29ff1-6695-4cb8-92d2-80405e68bc0c)
 
 ## Section 3
-- In section 3, I learnt Types of list, anchor tags, self closing tags, and image slection.
+- In section 3, I learnt Types of list, anchor tags, self closing tags, and image selection.
 
 ### List 
 - There are two typesof list ordered and un ordered list.
@@ -39,10 +39,10 @@ Mastering in Full-Stack Web Developer with just ONE course. HTML, CSS, Javascrip
 - Anchor tags are used to create hyperlinks.
 
 ## Section 4
-- In this section, I learnt Html Intermideate level.
+- In this section 4, I learnt Html Intermediate level.
 - File path
 - Nesting
-- Horizontal line breake 
+- Horizontal line breaker 
 - Lists
 - Github Website hosting
 ### Projects
