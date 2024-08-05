@@ -9,7 +9,7 @@ Mastering in Full-Stack Web Developer with just ONE course. HTML, CSS, Javascrip
 ## Section 2
 - In section 2, I learnt Heading and Paragraph.
 
-## Headings 
+### Headings 
 - There are 6 types of headings
 ```html
 <h1>Large</h1>
@@ -19,7 +19,7 @@ Mastering in Full-Stack Web Developer with just ONE course. HTML, CSS, Javascrip
 <h5>Small</h5>
 <h6>too small</h6>
 ```
-## Paragraph
+### Paragraph
 - In paragraph font would be small around 12.
 - Next I learnt break element and horizontal line element.
 ```html
@@ -31,11 +31,24 @@ Mastering in Full-Stack Web Developer with just ONE course. HTML, CSS, Javascrip
 ## Section 3
 - In section 3, I learnt Types of list, anchor tags, self closing tags, and image slection.
 
-## List 
+### List 
 - There are two typesof list ordered and un ordered list.
 ![Preview](https://github.com/user-attachments/assets/285f7619-d8fa-45db-b0ab-0d590b3fc120)
 
-## Anchor Tags
-- Anchor tags are self closing tags which are used to create hyper links.
+### Anchor Tags
+- Anchor tags are used to create hyperlinks.
+
+## Section 4
+- In this section, I learnt Html Intermideate level.
+- File path
+- Nesting
+- Horizontal line breake 
+- Lists
+- Github Website hosting
+### Projects
+- Portfolio creation
+![preview](https://github.com/user-attachments/assets/aa6e5ee3-e263-4fc0-aae1-79f5a6139401)
+- capstone project creation
+![Screenshot 2024-08-05 164553](https://github.com/user-attachments/assets/a43e7a08-01f7-4206-9743-27ef101c4cb3)
 
 # Stay tuned for next sections update.
