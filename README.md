@@ -51,4 +51,17 @@ Mastering in Full-Stack Web Developer with just ONE course. HTML, CSS, Javascrip
 - capstone project creation
 ![Screenshot 2024-08-05 164553](https://github.com/user-attachments/assets/a43e7a08-01f7-4206-9743-27ef101c4cb3)
 
+## Section 5 
+- In this section, I learnt CSS.
+- Inline-Internal-External
+- CSS Selectors
+- Vocab Project
+- Linking CSS to HTML file
+
+## Section 6
+- CSS Colors
+- Font Properties
+- Box Model
+- Project
+
 # Stay tuned for next sections update.
