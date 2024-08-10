@@ -1,0 +1,14 @@
+*{
+    background-color: black;
+}
+h1 {
+  font-family: "Foldit", sans-serif;
+  text-align: center;
+}
+
+.div {
+    border: 2px solid silver;
+    padding-bottom: -1%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
