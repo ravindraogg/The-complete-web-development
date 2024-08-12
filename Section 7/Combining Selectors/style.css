@@ -1,0 +1,21 @@
+h1,h2 {
+    color: blueviolet;
+}
+
+.box > p{
+        color: firebrick;
+}
+
+.box li{
+    color: blue;
+}
+
+ul > p {
+    color: aqua;
+    font-size: 5px;
+}
+
+p,p{
+    color: chocolate;
+}
+
