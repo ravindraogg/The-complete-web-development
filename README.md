@@ -64,4 +64,11 @@ Mastering in Full-Stack Web Developer with just ONE course. HTML, CSS, Javascrip
 - Box Model
 - Project
 
+## Section 7
+- In this section, I learnt
+- CSS Cascade
+- Combining Selection
+- CSS Positioning
+- Indian Flag Project
+
 # Stay tuned for next sections update.
