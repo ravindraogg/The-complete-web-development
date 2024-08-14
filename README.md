@@ -1,4 +1,4 @@
-# The-complete-web-development
+# The Complete Web Development 😎
 Mastering in Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps
 
 ## Section 1 
@@ -70,5 +70,12 @@ Mastering in Full-Stack Web Developer with just ONE course. HTML, CSS, Javascrip
 - Combining Selection
 - CSS Positioning
 - Indian Flag Project
+
+## Section 8
+- In this section, I learnt
+- CSS Display
+- FLoat
+- Responsive WebPage Framework
+- Media Query
 
 # Stay tuned for next sections update.
